@@ -1,0 +1,31 @@
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.city {
+    font-size: 30px;
+}
+
+.date {
+    font-size: 15px;
+}
+
+.container-temp {
+    display: flex;
+    justify-content: center;
+    font-size: 70px;
+    font-weight: bold;
+    border-radius: 10px;
+    text-shadow: 4px 8px rgba(0, 0, 0, 0.2);
+    background: 3px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 3px 6px rgba(0, 0, 0, 0.2);
+}
+
+.weather {
+    font-size: 32px;
+}
+
+.low-high {
+    font-size: 22px;
+}
